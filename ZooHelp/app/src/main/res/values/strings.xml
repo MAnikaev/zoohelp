@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZooHelp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_logo_text">ZOOHELP</string>
+    <string name="logo_part_iv_desc">Часть логотипа</string>
+    <string name="email_et_hint">Почта</string>
+    <string name="required_et_helper_text">Обязательное поле</string>
+    <string name="password_et_hint">Пароль</string>
+    <string name="enter_btn_text">Войти</string>
+    <string name="registration_btn_text">Зарегистрироваться</string>
+    <string name="add_announcement_fab_content_description">Add announcement</string>
+    <string name="announcements_item_title">Объявления</string>
+</resources>
