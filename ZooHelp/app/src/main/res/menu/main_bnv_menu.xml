@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/fragment_announcements"
+        android:icon="@drawable/basket_icon_24"
+        android:iconTint="@color/secondary"
+        app:showAsAction="ifRoom"
+        android:title="" />
+
+    <item
+        android:id="@+id/fragment_chats"
+        android:icon="@drawable/chat_icon"
+        android:iconTint="@color/secondary"
+        app:showAsAction="ifRoom"
+        android:title="" />
+
+    <item
+        android:id="@+id/placeholder"
+        app:showAsAction="never"
+        android:enabled="false"
+        android:title="" />
+
+    <item
+        android:id="@+id/fragment_fav"
+        android:icon="@drawable/fav_icon_24"
+        app:showAsAction="ifRoom"
+        android:title="" />
+
+    <item
+        android:id="@+id/fragment_profile"
+        android:icon="@drawable/person_icon"
+        app:showAsAction="ifRoom"
+        android:title="" />
+
+
+</menu>
